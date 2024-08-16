@@ -11,6 +11,18 @@ public class Main{
 
     }
 }
+// to input different dataType
+/*
+1- integer
+.nextInt()
+
+2- float
+.nextFlaot()
+
+3- string
+.next()
+
+*/
 
 // input from user
 //        /* must استدعاء مكتبة
