@@ -29,4 +29,12 @@ double	        	8 bytes
 long double	     8, 12, or 16 bytes (depends on the system)
 */
 
+/*to compare you can use == are equal ?
+in all datatype but in String use .equals("")
+ex:
+String x="khalid";
+if(x.equals("khalid"))
+System.out.println("are equal");
+
+*/
 
