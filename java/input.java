@@ -22,6 +22,13 @@ public class Main{
 3- string
 .next()
 
+4- char
+.next().charAt(0);
+        char ch;
+        System.out.print("Enter your char ");
+        ch=input.next().charAt(0);
+        System.out.println("char is : "+ch);
+
 */
 
 // input from user
