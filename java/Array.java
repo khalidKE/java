@@ -36,6 +36,11 @@ public class Main {
 // to create 2 dimensional array 
         int [][] array = new int [2][5];// 2 ==> rows , 5==> cols
 
+        /* عايز تجيب Size بتاع array
+            arr.length ==> rows
+            arr[0].length ==> cols
+            
+        */
 
 
     }
